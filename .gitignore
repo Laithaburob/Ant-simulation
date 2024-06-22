@@ -1,0 +1,13 @@
+# Prerequisites
+.vscode
+
+# executables
+.out
+main
+
+# binarys
+.bin
+
+# object files
+*.o
+main.o
